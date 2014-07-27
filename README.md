@@ -1,4 +1,4 @@
 Chess-Engine
 ============
 
-Human vs computer chess engine
+This is just a test. I will provide more detail later on...
